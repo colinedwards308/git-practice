@@ -20,4 +20,8 @@ Remember, it's self-paced so feel free to take a break! ☕️
 |   Storing JSON with queries      |   RedisJSON      |
 |   Estimating unique counts       |   HyperLogLog    |
 
+|:test|:last:|
+|------|-----|
+|name|one|
+|john|two|
 
